@@ -4,6 +4,17 @@ Generating BIP 44 compliant wallets for ethereum; Trial
 Message Digest: `m / purpose' / coin_type' / account' / change / address_index`
 
 
+
+Installation:
+`npm i bip39 ethjs-util ethereumjs-tx web3 hdkey --save`
+
+Error:
+Node Gyp needs a python 2.7 environment and doesn't support 3 yet
+
+Switch environment using
+- `conda env list`
+- `source activate python-2_7-old`
+
 Req:
 - https://github.com/ethjs/ethjs-util
 - https://github.com/ethereumjs/ethereumjs-tx
