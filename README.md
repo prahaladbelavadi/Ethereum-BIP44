@@ -3,6 +3,14 @@ Generating BIP 44 compliant wallets for ethereum; Trial
 
 Message Digest: `m / purpose' / coin_type' / account' / change / address_index`
 
+Status:
+Not working; Project suspended;
+Generated address is not a compatible ethereum address
+
+Better off using `web3.eth.accounts.create([entropy]);` and feeding in the message digest as entropy
+
+or rather research more on bip39, BIP44 and BIP32
+
 
 
 Installation:
