@@ -23,6 +23,12 @@ Switch environment using
 - `conda env list`
 - `source activate python-2_7-old`
 
+Notes:
+- None of dependencies provide complete solutions
+- Need to export function wise from individual repos and combine to generate a HD wallet
+- Need to research on underlying principles of tree and address generation to figure out what fits where and implement them
+
+
 Req:
 - https://github.com/ethjs/ethjs-util
 - https://github.com/ethereumjs/ethereumjs-tx
