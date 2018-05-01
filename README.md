@@ -38,3 +38,5 @@ Reference:
 - [Ethereum JS wallet](https://github.com/ethereumjs/ethereumjs-wallet)
 
 [Discussion](https://github.com/ethereum/EIPs/issues/84#issue-143651804)
+
+- [Docs w3](https://web3js.readthedocs.io/en/1.0/web3-eth-accounts.html#parameters)
